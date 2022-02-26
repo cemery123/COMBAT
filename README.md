@@ -1,8 +1,8 @@
 # SLBug-Hunter
 ## [SLBug-Hunter:New Simulink Test Tool](https://github.com/xzhxfz/SLBug-Hunter/new/master?readme=1)
-Matlab env dependencies:
-1. Matlab 2021b
-2. Simulink
+**Matlab env dependencies:**
+1. **Matlab 2021b**
+2. **Simulink default**
 ***
 ### Datatest:
 If you wish to use publicly available datasets, you can access *[third-party datasets](https://drive.google.com/drive/folders/173ik08oi3BCnPzjlZkHYhMAkp93zW-V4?usp=sharing)*. If you wish to use a random model, 
@@ -45,4 +45,4 @@ variant subfile. If you want to see the overall data, you can run from the Matla
 ```emi.repoert```
 
 ***
-**Thanks to MathWorks consultants Zouyi Yang, Lily Yan and Finao Peng for their support.**
+**Thanks to MathWorks consultants Zouyi Yang, Lily Yan and Finao Peng for their support.Thanks to MathWorks consultants Zouyi Yang, Lily Yan and Finao Peng for their support. We got a lot of help from MathWorks staff in the discovery and confirmation of bugs, and we can't list them all. I would like to express my gratitude here.**
