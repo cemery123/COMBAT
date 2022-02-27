@@ -49,4 +49,4 @@ variant subfile. If you want to see the overall data, you can run from the Matla
 ```emi.repoert```
 
 ***
-**Thanks to MathWorks consultants Zouyi Yang, Lily Yan and Finao Peng for their support.Thanks to MathWorks consultants Zouyi Yang, Lily Yan and Finao Peng for their support. We got a lot of help from MathWorks staff in the discovery and confirmation of bugs, and we can't list them all. I would like to express my gratitude here.**
+**Thanks to MathWorks consultants Zouyi Yang, Lily Yan and Finao Peng for their support. We got a lot of help from MathWorks staff in the discovery and confirmation of bugs, and we can't list them all. I would like to express my gratitude here.**
