@@ -53,7 +53,7 @@ variant subfile. If you want to see the overall data, you can run from the Matla
 ### Here are the details of these bugs
 These errors in bug files can be reproduced with Matlab2021b  
 If there are two files in the folder that are original and equivalent, you usually need to open and run them separately. You can reproduce this error in the data comparator provided by Matlab. If the folder has only one file and the problem is not in accelerated mode or zero-crossing detection mode then you can just run and see the problem. If the problem with the folder is in acceleration mode or zero-crossing detection mode, in order to reproduce the problem you need to run the model separately in different modes. For example, the case where the zero-crossing detection model is wrong is the inconsistency between the heuristic zero-crossing detection algorithm and the zero-crossing detection algorithm disabled.  
-The last part referencing the model requires adding your folder to the Matlab path in order to run. Access to specific circumstances*[Mathworks website](https://ww2.mathworks.cn/help/simulink/ug/overview-of-model-referencing-1.html)*  
+The last part referencing the model requires adding your folder to the Matlab path in order to run. Access to specific circumstances *[Mathworks website](https://ww2.mathworks.cn/help/simulink/ug/overview-of-model-referencing-1.html)*  
 05294630	Math Function error in accelerate by selceting Nan and zero  
 05296099	Data error for signal generator module in accelerated mode  
 05255309	Data Type error cause Cannot open or compile the file normally  
