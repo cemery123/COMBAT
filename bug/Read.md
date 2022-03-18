@@ -5,7 +5,7 @@
 2. **Simulink default**
 ***
 ### Here are the details of these bugs
-These errors can be reproduced with Matlab2021b
+These errors can be reproduced with Matlab2021b  
 05294630	Math Function error in accelerate by selceting Nan and zero  
 05296099	Data error for signal generator module in accelerated mode  
 05255309	Data Type error cause Cannot open or compile the file normally  
