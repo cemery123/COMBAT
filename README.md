@@ -43,6 +43,13 @@ Once everything is in place, you can run in the Matlab command line:
 A mutation procedure for variants is performed.
 
 ****
+### Test Result
+The experimental results will be placed in the +emi_result file, and the information including the variants will also be written separately into the `.mat` data table of each 
+variant subfile. If you want to see the overall data, you can run from the Matlab command line:
+
+```emi.repoert```
+
+***
 ### Here are the details of these bugs
 These errors in bug files can be reproduced with Matlab2021b  
 05294630	Math Function error in accelerate by selceting Nan and zero  
@@ -62,13 +69,6 @@ These errors in bug files can be reproduced with Matlab2021b
 05398645	Max module misbehaves under zero-crossing detection  
 05405356	Abnormal MAX zero-crossing detection in acceleration mode  
 
-
-***
-### Test Result
-The experimental results will be placed in the +emi_result file, and the information including the variants will also be written separately into the `.mat` data table of each 
-variant subfile. If you want to see the overall data, you can run from the Matlab command line:
-
-```emi.repoert```
 
 ***
 **Thanks to MathWorks consultants Zouyi Yang, Lily Yan and Finao Peng for their support. We got a lot of help from MathWorks staff in the discovery and confirmation of bugs, and we can't list them all. I would like to express my gratitude here.**
