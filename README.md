@@ -1,5 +1,5 @@
-# SLBug-Hunter
-## [SLBug-Hunter:New Simulink Test Tool](https://github.com/EDA-Testing/SLBug-Hunter/edit/master/README.md)
+# COMBAT
+## [COMBAT:New Simulink Test Tool](https://github.com/EDA-Testing/SLBug-Hunter/edit/master/README.md)
 **Matlab env dependencies:**
 1. **Matlab 2021b**
 2. **Simulink default**
