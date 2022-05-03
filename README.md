@@ -18,7 +18,7 @@ We are committed to testing the stability of the `CPS` ` (cyber physical systems
 
 ***
 ### Hello World
-Before starting, you need to set two environment variables `SLSFCORPUS` and `COVEXPXPLORE`,both of which point to your `reproduce/samplecorpus` file. In subsequent operations, you need to put the test models into 
+Before starting, you need to set two environment variables `SLSFCORPUS` and `COVEXPEXPLORE`,both of which point to your `reproduce/samplecorpus` file. In subsequent operations, you need to put the test models into 
 this folder so that Simulink can quickly and accurately find the files you need
 
 If you have questions about setting environment variables, please visit the official *[Mathworks website](https://ww2.mathworks.cn/help/matlab/ref/setenv.html?lang=en)*
